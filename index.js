@@ -1,5 +1,5 @@
 module.exports.testfunc = (name) => {
-    const message = "hello";
+    const message = "hye";
 
     if(!name) {
         return `${message} kartik`
